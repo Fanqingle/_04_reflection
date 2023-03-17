@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/yootk/demo/YootkDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/yootk/demo3/Book.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/yootk/demo4/AbstractPrint.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/yootk/demo4/Factory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/yootk/demo4/IBook.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/yootk/demo4/ISpec.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/yootk/demo4/MathBook.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/yootk/demo4/ProgramBook.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/yootk/single/YootkDemotest.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
